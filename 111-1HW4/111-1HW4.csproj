@@ -87,8 +87,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="answer.md" />
+    <Content Include="answer.md.pdf" />
     <None Include="packages.config" />
     <Content Include="readme.md" />
+    <Content Include="Test.bak" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Button ID="btn_Insert" runat="server" Text="點我新增資料夾" OnClick="btn_Insert_Click" />
+            <asp:Button ID="btn_Insert" runat="server" Text="點我新增資料夾" OnClick="btn_Insert_Click1" />
             <asp:GridView ID="gd_View" runat="server"></asp:GridView>
         </div>
     </form>
